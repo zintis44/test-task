@@ -14,4 +14,3 @@ Usage
 ---
 
 To run server : `npm start`
-To buld : `npm run-script build`
